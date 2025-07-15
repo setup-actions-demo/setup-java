@@ -17,4 +17,3 @@ jobs:
     uses: jsoref/reusable-workflows/.github/workflows/basic-validation.yml@with-token
     with:
       node-version: '20.x'
-
